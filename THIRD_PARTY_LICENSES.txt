@@ -1,0 +1,19 @@
+This software uses third-party components.
+
+--------------------------------------------------
+Qt Framework
+--------------------------------------------------
+Qt is licensed under the GNU Lesser General Public License v3 (LGPLv3).
+
+Copyright © The Qt Company Ltd.
+https://www.qt.io/licensing
+
+Qt is dynamically linked. Users may replace the Qt libraries in accordance
+with the LGPL v3 license.
+
+--------------------------------------------------
+MinGW Runtime
+--------------------------------------------------
+This application is built using the MinGW toolchain.
+The MinGW runtime libraries are licensed under their respective open-source
+licenses.
