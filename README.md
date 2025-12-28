@@ -54,7 +54,7 @@ No installation and no administrator privileges required.
 ## Licensing
 
 ### Application Code
-This project is licensed under the **MIT License**.  
+This project is licensed under the **GNU Lesser General Public License v3 (LGPLv3)**.  
 See the `LICENSE` file for details.
 
 ### Third-Party Components
